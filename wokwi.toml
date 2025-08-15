@@ -1,4 +1,4 @@
 [wokwi]
 version=1
-firmware='build/arduino-lcd-helloworld.ino.hex'
+firmware='build/arduino-lcd-helloworld.ino.bin'
 elf='build/arduino-lcd-helloworld.ino.elf'
